@@ -1,0 +1,91 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Posłowie japońscy do Pawła V biskupa rzymskiego. Naród i droga ich – edycja cyfrowa</title>
+                <author>Scipione Amati</author>
+                <respStmt>
+                    <name>Jakub Śliwski</name>
+                    <resp>translation</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Franciszek Cezary</name>
+                    <resp>print</resp>
+                </respStmt>
+                <editor xml:id="AL">Agata Lech</editor>
+                <editor xml:id="KK">Karolina Kapuścińska</editor>
+                <editor xml:id="GP">Gabriela Paszkowska</editor>
+                <editor xml:id="AS">Aleksandra Sobańska</editor>
+                <editor xml:id="AT">Agnieszka Tkacz</editor>
+                <editor xml:id="AG">Anna Grzybczyk</editor>
+                <editor xml:id="OZ">Olga Zatońska</editor>
+                <principal xml:id="JH">Joanna Hałaczkiewicz</principal>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <name>Katedra Edytorstwa i Nauk Pomocniczych UJ</name>
+                    <email>j.halaczkiewicz@uj.edu.pl</email>
+                </publisher>
+                <pubPlace>Kraków</pubPlace>
+                <date type="first" when="2024">2024</date>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+                        <p>Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) </p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="fair-copy" facs="https://polona.pl/api/search-index/search/iiif/45b00d44-4957-41c8-af0e-6e9ccae557ae/manifest.json">
+                    <msIdentifier>
+                        <institution>Biblioteka Narodowa</institution>
+                        <idno>SD XVII.3.4543</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>[8] kart, 112 stron; 4°</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="transcription">
+        <body>
+            <div type="page">
+                <pb facs="https://polona.pl/iiif/2/7e82ba1d-f7c8-42a9-bf27-56dd378d5714/full/full/0/default.jpg" n="7"/>
+                <fw type="running-head" place="top">Do czytelnika</fw>
+                <p n="1"> do prawdy wiary świętej i do zakonu chrześcijańskiego, który za łaską i miłosierdziem Boga naszego rozszedł się po onych insułach  tak skutecznie, iż też ciż, którzy się świeżo chrzcili, kaznodziejami zostawali. Zażywając tychże wywodów, któremi sami byli przekonani, co też na ostatek i płeć białogłowska mężnie czyniła z wielkim rozmnożeniem wiary chrześcijańskiej świętej. Założył też i szpitale na rozmaitych miejscach, w których bracia laicy, nie mogąc kazać, zabawę mają, służąc chorym, zachowując przykazanie, które Pan nasz Jezus Chrystus zostawił uczniom swoim, gdy ich posyłał na przepowiadanie:
+                    <foreign xml:lang="la">Evangelisate pauperibus, et curate infirmos, qui apud illos sunt</foreign>. Stąd też podała się niemała okazyja rozmnażania wiary świętej między onym narodem za zniewoleniem chęci onych ludzi, którzy brali zdrowie na ciele, a potem i na duszy zbawienie przez chrzest święty. I owszem, otworzyły się ojcu Sotelowi stąd szerokie wrota do przyjaźni i społeczności z wielkiemi pany i królmi onego pogaństwa, których przywodził do poznania i wyznawania wspaniałości i prawdy wiary naszej, i przyznania pewnej drogi zbawienia naszego, dowodząc jaśnie racyjami nieprzemożonemi, iż sekty i nauki japońskie na błędzie się sadzą i są własne wynalazki dyjabelskie. A chociaż dla zastarzałości i powagi dawnej bałwochwalskiej i przykowania do grzechów swych opuszczać zaraz wszytkiego nie mogą, nie przeto jednak panowie i królowie onych narodów panujący zabraniają, aby chrześcijanie chwalili prawdziwego Boga, i owszem, niektórzy z nich dopuszczają nawet i namawiają, aby się szerzył głos Ewanjeliej świętej. Z takiego stowarzyszenia ojca tego z przełożonemi narodu walą się wszytkie złe zwyczaje, któremi obrażali Pana Boga i bliźniego swego; na ostatek budowaliby już i kościoły dawno w swoich królestwach, gdyby mogli byli mieć osoby zakonne.
+                </p>
+                <fw type="catchword" place="bottom">do pra-</fw>
+            </div>
+            <div type="page">
+                <pb facs="https://polona.pl/iiif/2/7e82ba1d-f7c8-42a9-bf27-56dd378d5714/full/full/0/default.jpg" n="8"/>
+                <fw type="running-head" place="top">Do czytelnika</fw>
+                <p n="1"> 
+                Tenże ociec Sotelo widząc zły jeden zwyczaj pogański, który z dawna panował w Japonie, gdy umierał jaki król abo wielki senator, <note type="argument" place="margin">Zwyczaj pogański bardzo zły.</note>jego wszyscy kochankowie i przyjaciele przy pogrzebach powinni byli dla starodawnego zwyczaju gołą broń wtopić w piersiach i zabijać się własnemi rękami, powiadając tak sobie: <q>Ponieważ umiera król, nie jest rzecz przystojna, aby na świecie zostawali ci, których on miłował i w nich się kochał</q>.<note type="argument" place="margin">Dysputacyja z królem.</note> Miał dysputacją z królem z Quinokonu zwanym Assanodaibut  około tej materyjej i tym zwyczaju pogańskim, a widząc się król pokonanym, iż ten by zwyczaj przeciwny wszelkiemu prawu i nieznośny między wszytkiemi narodami i szkodliwy dziedzicom umierającego dla gniewu i kolery , która go popadła, chciał kazać zabić ojca Sotela, zaniechał jednak tego, wiedząc, jako przyjaźń miał z imperatorem.<note type="argument" place="margin">Medyk roztropny.</note> Nalazł się tam był jeden medyk przy tej dysputacyjej, który spisał wszytkie racyje ojcowe, a mając czas i okazyją na królewski majestat podał je królowi onemu, który przypatrzywszy się dobrze onemu bestialskiemu zwyczajowi, na ostatek powiedział: <q>Nie jest rzecz słuszna, aby zwyczaj przeciwny rozumowi dla swojej dawności miał być więcej zachowany w Japonie</q>. I zarazem zakazał edyktem pospolitym pod karaniem ciężkim i czci odsądzeniem potomków i familiej, aby żaden nie śmiał zabijać się, jako pierwej czynili dla śmierci panów swoich. Tym zabronieniem, jako i inszemi rzeczami, w których stawał mężnie przeciwko takiej zwierzchności królewskiej i imperatorskiej, mając sprawiedliwość i prawdę po sobie, nabył ociec Sotelo wielkiego kredytu u wszytkiego dworu cesarskiego tak, iż żaden nie śmie dyszkurować o tych rzeczach, które były w dawnym zwyczaju pod utraceniem żywota. I owszem, sam cesarz, królowie i panowie inszy mieli go stąd w poszanowaniu wielkim, uznawając go być człowiekiem szczerym, umiejętnym i nieustraszonym. Tenże najwyższy imperator, chcąc go wyprawić za swego 
+                </p>
+                <fw type="catchword" place="bottom">Tenże</fw>
+            </div>
+            <div type="page">
+                <pb facs="https://polona.pl/iiif/2/7e82ba1d-f7c8-42a9-bf27-56dd378d5714/full/full/0/default.jpg" n="9"/>
+                <fw type="running-head" place="top">Do czytelnika</fw>
+                <p n="1">posła do króla hiszpańskiego dla traktatów o przyjaźń i o spółkowanie narodów z hiszpańskimi japońskich, odradzali mu niektórzy radni panowie, mówiąc, iż nie godziło się kłaść takiej legacyjej na zakonnika tak barzo potrzebnego i podawać go na takie niebezpieczeństwa morskie w tak dalekiej nawigacyjej i ziemskim tak długim gościncu, którym imperator odpowiedział, że Bóg jego wspomoże go, iż przyniesie dobrą i prędką rispostę. Jest w takiej miłości i w takim poważeniu wszytkich stanów ociec przerzeczony, iż też sprawy i zaciągi natrudniejsze jego ręka ugłaszała i uspokajała. A gdy chodził przepowiadając Ewanjelią świętą po rozmaitych królestwach, był taki konkurs ludzi do niego niesłychany, którzy bieżeli, aby go widzieli i słyszeli dla sławy, którą wielką słynął, tak, iż i sami bońcy abo kapłani dyjabelscy oglądali się nań i chwalili jego postępek z ludźmi i sposób nawracania. I owszem, z nich niektórzy natchnieni od Boga miłego, opuściwszy błędy własne, przyjęli wiarę świętą, a zostawszy uczniami ojca tego, wspomagali go, nauczając wiary poganów i nawodząc ich do łona Kościoła Bożego. Między któremi byli dwa bońcy miani za mistrze i doktory w błędach swoich, którzy byli posłani od rektora akademiej swojej di Koia  na dysputę z jednym chrześcijaninem doskonale wyćwiczonym w świętym katechizmie, który był od nich wyszedł, trzy lata minęły z ich nauki błędnej po wielkich i długich dyszkursach odeszli przekonani, a potym po dni kilku chrzest święty przyjęli. Którą nowiną gniewem zajuszony rektor chciał zapalić kościół i mieszkanie, gdzie mieszkał ten ociec Sotelo z drugimi zakonnikami i chrześcijanami, i dawszy niemałą summę dwóm łotrom, aby tę jego wolą uczynili, chciał Pan Bóg, który ma opatrzenie koło sług swoich, iż aczkolwiek we dnie położyli byli znak na spalenie kościoła, w nocy nie mogli go znaleźć żadną miarą, chociaż całą noc chodzili, szukając, choć że tam tuż przy onym miej-
+                </p>
+                <fw type="catchword" place="bottom">posła</fw>
+            </div>
+            <div type="page">
+                <pb facs="https://polona.pl/iiif/2/7e82ba1d-f7c8-42a9-bf27-56dd378d5714/full/full/0/default.jpg" n="10"/>
+                <fw type="running-head" place="top">Do czytelnika</fw>
+                <p n="1">scu byli. Gdy tedy dzień nadchodził, a oni baczyli się być przed kościołem samym, uznali, iż Pan Bóg zasłonił im był oczy, a żałując przedsięwzięcia złego, weszli do kościoła, a słysząc niektóre słowa w kazaniu, przystali do wiary chrześcijańskiej.</p>
+                <p n="2">Wiele inszych przeszladowania oprócz tych przeszedł ociec Sotelo, wiele razów kryjąc się po górach, dotąd, aż mu Pan Bóg miły dał łaskę do ich uspokojenia, który, wracając się do swej roboty zaczętej nawracania poganów i zatrzymania wiernych, tak przytomnością, jako i listami, dawał wielką pociechę i ochłodę duchowną onemu chrześcijaństwu, które dźwigał prawie swemi ramionami. A jako wszytko wypisować rzeczby była długa i czytelnikowi przykra, tak namienić tę trochę miałem intencyją, krótko podając finał czytelnikowi i oznajmując mu początek i postępek tej Legacyjej z Japonu, którą nawielebniejszy ociec brat Luigi Sotelo przyniósł do Ojca Świętego Pawła Piątego, imieniem króla wokseńskiego. Inszego końca nie mając, jedno przed oczy kładąc chwałę miłego Boga, stolice świętej apostoliskiej cześć, pociechę powszechnego Kościoła Bożego i wszytkiego wobec chrześcijaństwa.</p>
+                <fw type="catchword" place="bottom"/>
+            </div>
+        </body>
+        <back>
+            <div type="notes">
+                <note n="1" target="#a1"/>
+                <note n="1" target="#a1"/>
+            </div>
+        </back>
+    </text>
+</TEI>
