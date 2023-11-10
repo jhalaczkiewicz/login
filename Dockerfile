@@ -39,7 +39,7 @@ ARG PUBLISHER_LIB_VERSION=4.0.0
 ARG ROUTER_VERSION=1.8.0
 # replace with name of your edition repository and choose branch to build
 ARG APP_NAME=login
-ARG APP_REPO=https://github.com/jhalaczkiewicz/poslowie.git
+ARG APP_REPO=https://github.com/jhalaczkiewicz/login.git
 ARG APP_TAG_OR_BRANCH=master
 
 # add key
