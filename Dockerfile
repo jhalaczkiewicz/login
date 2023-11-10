@@ -40,7 +40,7 @@ ARG ROUTER_VERSION=1.8.0
 # replace with name of your edition repository and choose branch to build
 ARG APP_NAME=login
 ARG APP_REPO=https://github.com/jhalaczkiewicz/login.git
-ARG APP_TAG_OR_BRANCH=master
+ARG APP_TAG_OR_BRANCH=main
 
 # add key
 RUN  mkdir -p ~/.ssh && ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
